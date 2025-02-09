@@ -21,6 +21,9 @@ gem "typhoeus", "~> 1.4.1"
 gem "yell", "~> 2.2.2"
 gem "zeitwerk", "~> 2.7.1"
 
+# Jekyll::Compose
+gem 'jekyll-compose', group: [:jekyll_plugins]
+
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 
