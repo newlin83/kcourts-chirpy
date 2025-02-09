@@ -11,10 +11,15 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.4.1"
 
-# This is the chirpy theme for Jekyll.
+# Needed gems
 gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
-
-gem "html-proofer", "~> 5.0", group: :test
+gem "html-proofer", "~> 5.0.9", group: :test
+gem "nokogiri", "~> 1.18.2"
+gem "pdf-reader", "~> 2.14.1"
+gem "rainbow", "~> 3.1.1"
+gem "typhoeus", "~> 1.4.1"
+gem "yell", "~> 2.2.2"
+gem "zeitwerk", "~> 2.7.1"
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
@@ -34,4 +39,3 @@ end
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
-
