@@ -3,6 +3,7 @@ layout: post
 author: <author_id> 
 title: Kootenai County Sheriff and Coeur d'Alene PD
 date: 2025-02-09 18:24 +0000
+tags: judges, government, police
 description: The corruption of the family law system in Kootenai County Idaho
 ---
 My experience with both the Kootenai County Sheriff's Office and Coeur d'Alene PD has been nothing but negative. In my experience, they are defending the wrong people, and they're hurting innocent people. They overall make North Idaho a much worse place, and they incentivize bad people to continue to act badly, since they won't face consequences.
