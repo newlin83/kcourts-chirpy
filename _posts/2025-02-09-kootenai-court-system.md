@@ -11,20 +11,20 @@ description: The corruption of the family law system in Kootenai County Idaho
 This is a criticism of the entire family law system in Kootenai County. This is a criticism of:
 
 - Kootenai County Magistrate Court
-- Family Court Service Office (supervised visitation, parenting class)
+- Idaho Department of Health and Welfare
 - Mediation
+- Family Court Service Office (supervised visitation, parenting class)
+- Kootenai County Sheriff & Coeur d'Alene Police Department
 
 These are topics I want to add later:
 
-- Idaho Department of Health and Welfare
 - Judges
 - Attorneys and Idaho Bar
 - "Best Interest Standard"
 - Pediatricians and social workers
-- Coeur d'Alene PD
 - Women's shelters (e.g. Safe Passage)
-- Guardian ad Litems
-- Custody Evaluators
 - Child Support Enforcement
+
+I have no experience with custody evaluators and GALs, so I won't comment on them, beyond saying that I've heard these people are just as corrupt as everyone else, and absolutely are not looking out for children. Some of these GALs are the same people that I'm criticizing elsewhere. They simply use the system to make money and to protect people based on their on biases and prejudices.
 
 Ultimately, this is the fault of the government for having such a corrupt system that does nothing but harm children and good parents, while lining their own pockets, abusing power, and attacking those who try to hold this system accountable.
