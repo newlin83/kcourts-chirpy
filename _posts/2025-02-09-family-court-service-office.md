@@ -5,8 +5,6 @@ title: Family Court Service Office
 date: 2025-02-09 04:06 +0000
 description: My experience with the family court service office.
 ---
-# Family Court Service Office
-
 This is my experience with the Family Court Service Office. The most notable interaction I've had with them is regarding supervised visitation. In my case, there was no domestic violance, drugs, or alcohol. However, the mother of my daughter did everything in her power to keep me away from my daughter, which I won't talk about now. As my now ex-wife was able to successfully keep me away from my daughter for months, the judge ordered supervised visitation as a kind of "re-unification." This was totally unnecessary, oppressive, and neither I or my daughter wanted to do it. However, the judge and lawyers defaulted to this idea. So, I was forced to go through with months of supervised visitation.   
 
 ## Supervised Providers
