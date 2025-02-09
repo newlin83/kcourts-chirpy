@@ -39,6 +39,18 @@ They did not investigation my wife at all. Rather, they put together a gigantic 
 
 I filed a [lawsuit against the Idaho Department of Health and Welfare](https://www.pacermonitor.com/public/case/52812750/Newlin_v_Idaho_Department_of_Health_and_Welfare_et_al) in direct respose to the Oct 2023 report. Ultimately, I filed a motion to dismiss the lawsuit, because I was just not mentally and physically able to handle the sheer volume of documention they were filed, and I was afraid of having a mental breakdown in simply dealing with this case. This is going up against the state, and so I had no chance. I couldn't afford an attorney, but I doubt an attorney would even take on a case like this that's trying to hold the state accountable. These people are simply untouchable, and act with impunity.
 
+# Naming Names
+
+These are the names of the women who were involved with this report. The corruption is specifically with them in particular:
+
+- Karyn Crone - she is the one who actually came to our home in Feb 2023.
+- Nikki Stocking - she wrote the report in Feb 2023, all based on hearsay from Karyn who was actually present
+- Worker Tanner - she made the 2nd visit in Oct 2023 and is especially corrupt. She should be fired and prosecuted immediately. This "Worker Tanner" won't even identify herself in the report. Furthermore, she didn't identify everyone she spoke with in the report. She also refused to speak with me when I called. This "Worker Tanner" should be in prison, what she's doing is incredibly corrupt and is destroying lives. I would only assume she's continuing in her corrupt practices.
+
+It's bizarre that the person who visits the home doesn't actually write the report. It's clear that after an assessment, they talk things over, and then someone else writes a report. There's no audio recording of what actually happened that I'm aware of. They can literally write whatever they want, and it's held as gospel by the judges. They know they have positions of power where they're totally unaccountable. 
+
+Trying to hold these people accountable is a waste of time. It absolutely falls on deaf ears with the state. They don't invesigate anything. They allow their workers to operate however they please, with no oversight. They should be required to wear bodycams when conducting these investigations so that false statements and accusations are clearly recorded. Everyone should have to identify themselves.
+
 # Aftermath
 
 There is no accountability for these women working at the Idoho Department of Health and Welfare. They will continue to defend child abusers and to write false reports against innocent fathers. Nothing is going to stop them. The state needs to shut down this office immediately and prosecute these women who are doing this.
