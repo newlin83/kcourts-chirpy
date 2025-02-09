@@ -3,7 +3,7 @@ layout: post
 author: <author_id> 
 title: Mediation with Martha Roletto
 date: 2025-02-09 18:15 +0000
-tags: lawyers
+tags: [lawyers]
 description: Mediation is another tactic for manipulative people to win
 ---
 As part of this case, I went through mediation. Just days after filing our complaint, my ex scheduled an appointment with Martha Roletto. Now I know why, and I strongly suggest any men reading this to refuse mediation with her.
