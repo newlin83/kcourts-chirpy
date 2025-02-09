@@ -4,9 +4,7 @@ title: Pediatricians
 date: 2025-02-09 20:44 +0000
 tags: [Lakeside Pediatrics, Prairie Family Medicine, Patty Woods, Kayla Ellis]
 ---
-# Lakeside Pediatrics Website
-
-[Lakeside Pediatrics](https://www.lakesidepediatrics.net/) is so corrupt that I sued them in federal court and have created a website just about them. If you want to email me just about them, you can reach me at [contact@lakesidepediatrics.net](emailto:contact@lakesidepediatrics.net)
+[Lakeside Pediatrics](https://www.lakesidepediatrics.net/) is so corrupt that I sued them in federal court and have created a website just about them. You can reach me at [contact@lakesidepediatrics.net](emailto:contact@lakesidepediatrics.net).
 
 # My Overall Thoughts
 
