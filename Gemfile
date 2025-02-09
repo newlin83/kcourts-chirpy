@@ -8,12 +8,12 @@
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 source "https://rubygems.org"
-
+ruby "3.2.2"
 gem "jekyll", "~> 4.4.1"
 
 # Needed gems
 gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
-gem "html-proofer", "~> 5.0.9", group: :test
+gem "html-proofer", "~> 5.0.9"
 gem "nokogiri", "~> 1.18.2"
 gem "pdf-reader", "~> 2.14.1"
 gem "rainbow", "~> 3.1.1"
