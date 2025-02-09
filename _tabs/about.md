@@ -1,6 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
+tags: [Francis Schuckardt, Kayla Ellis, CMRI, Tridentine, Tridentines]
 order: 4
 ---
 
