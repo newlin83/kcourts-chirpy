@@ -1,28 +1,13 @@
 {
-  "name": "Jekyll",
-  "image": "jekyll/jekyll:latest",
-  "onCreateCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}",
-  "postCreateCommand": "bash .devcontainer/post-create.sh",
+  "name": "Jekyll Dev Container",
+  "image": "jekyll/jekyll:latest", // Use the official Jekyll Docker image
+  "forwardPorts": [4000], // Forward port 4000 for Jekyll's local server
+  "postCreateCommand": "bash .devcontainer/post-create.sh", // Run the post-create script
   "customizations": {
     "vscode": {
-      "settings": {
-        "terminal.integrated.defaultProfile.linux": "zsh"
-      },
       "extensions": [
-        // Liquid tags auto-complete
-        "killalau.vscode-liquid-snippets",
-        // Liquid syntax highlighting and formatting
-        "Shopify.theme-check-vscode",
-        // Shell
-        "timonwong.shellcheck",
-        "mkhl.shfmt",
-        // Common formatter
-        "EditorConfig.EditorConfig",
-        "esbenp.prettier-vscode",
-        "stylelint.vscode-stylelint",
-        "yzhang.markdown-all-in-one",
-        // Git
-        "mhutchie.git-graph"
+        "streetsidesoftware.code-spell-checker",
+        "dbaeumer.vscode-eslint"
       ]
     }
   }
