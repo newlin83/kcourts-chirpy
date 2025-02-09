@@ -1,9 +1,9 @@
 ---
 layout: post
-author: <author_id> 
 title: Kootenai County Sheriff and Coeur d’Alene Police Department
 date: 2025-02-09 18:24 +0000
 tags: [Kootenai County Sheriff, Coeur d’Alene Police Department, Judge Caldwell, judges, protection order]
+categories: [State of Idaho, Police]
 description: How the Kootenai County Sheriff and Coeur d'Alene Police Department hurt children and innocent people
 ---
 My experience with both the Kootenai County Sheriff's Office and Coeur d'Alene PD has been nothing but negative. In my experience, they are defending the wrong people, and they're hurting innocent people. They overall make North Idaho a much worse place, and they incentivize bad people to continue to act badly, since they won't face consequences.

@@ -3,6 +3,7 @@ layout: post
 title: Idaho Department of Health and Welfare
 date: 2025-02-09 19:53 +0000
 tags: [Idaho Department of Health and Welfare, lawsuit]
+categories: [State of Idaho, Idaho Department of Health and Welfare]
 description: shielding child abusers and blaiming victims
 ---
 The Idaho Department of Health and Welfare is totally corrupt, shields child abusers, and blames innocent people for child abuse. This has been my experience. The investigations they do aren't just a farce, it's as if they figure out who is doing the abuse, then claim they see nothing, and then blame the person who is trying to protect the children. I believe there is something much deeper going on, with connections between various organizations that are trying to protect women at all costs, including protecting abusive women and falsely blaming the fathers.
