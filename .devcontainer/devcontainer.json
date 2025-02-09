@@ -1,14 +1,12 @@
 {
   "name": "Jekyll Dev Container",
-  "image": "jekyll/jekyll:latest", // Use the official Jekyll Docker image
-  "forwardPorts": [4000], // Forward port 4000 for Jekyll's local server
-  "postCreateCommand": "bash .devcontainer/post-create.sh", // Run the post-create script
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "streetsidesoftware.code-spell-checker",
-        "dbaeumer.vscode-eslint"
-      ]
-    }
-  }
+  "image": "jekyll/jekyll:latest",
+  "forwardPorts": [4000],
+  "mounts": [
+    "source=/run/host-services/ssh-auth.sock,target=/run/host-services/ssh-auth.sock,type=bind"
+  ],
+  "containerEnv": {
+    "SSH_AUTH_SOCK": "/run/host-services/ssh-auth.sock"
+  },
+  "postCreateCommand": "bash .devcontainer/post-create.sh"
 }
