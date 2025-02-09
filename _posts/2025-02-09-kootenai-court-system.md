@@ -10,16 +10,18 @@ description: The corruption of the family law system in Kootenai County Idaho
 This is a criticism of the entire family law system in Kootenai County. This is a criticism of:
 
 - Kootenai County Magistrate Court
-- Judges
+- Family Court Service Office (supervised visitation, parenting class)
+- Mediation
+
+These are topics I want to add later:
+
 - Idaho Department of Health and Welfare
+- Judges
 - Attorneys and Idaho Bar
 - "Best Interest Standard"
-- Supervised Visitation
 - Pediatricians and social workers
-- Parenting class (mandatory)
 - Coeur d'Alene PD
 - Women's shelters (e.g. Safe Passage)
-- Mediators
 - Guardian ad Litems
 - Custody Evaluators
 - Child Support Enforcement
