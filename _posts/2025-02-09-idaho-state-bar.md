@@ -3,7 +3,7 @@ layout: post
 title: Idaho’s State Bar and Lawyer Malpractice
 description: A System in Need of Reform
 date: 2025-02-10 04:14 +0000
-categories: [State of Idaho, Idaho State Bar]
+categories: [Quasi-Governmental Entity, Idaho State Bar]
 ---
 I experienced lawyer malpractice with my first two attorneys, so I turned to the Idaho State Bar. Yet, when my complaints were brought, their response was totally inadequate, dismissive, and outright different. The "investigation" they do is no more than a farce, and the attorneys were held accountable for their obvious and egregious behavior.
 
