@@ -4,7 +4,7 @@ title: The Flawed "Best Interest Standard"
 description: A Critical Look at National and Idaho-Specific Concerns
 categories: [State of Idaho, Court]
 tags: [best interest standard, judges]
-date: 2025-02-10 19:35 -0800
+date: 2025-02-10 03:35 +0000
 ---
 The "best interest of the child" standard is a cornerstone of family law across the United States, including here in Idaho. It is intended to ensure that decisions made by courts prioritize the well-being of children in cases of custody, visitation, and other family-related disputes. While the principle sounds noble, its application often falls short, revealing systemic flaws that can harm families and children rather than protect them. At both the national level and within Idaho’s legal framework, the "best interest standard" is vague, subjective, and prone to inconsistency, raising serious concerns about its effectiveness and fairness.
 
