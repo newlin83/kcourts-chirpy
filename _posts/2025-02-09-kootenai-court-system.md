@@ -15,13 +15,14 @@ This is a criticism of the entire family law system in Kootenai County. This is 
 - Mediation
 - Family Court Service Office (supervised visitation, parenting class)
 - Kootenai County Sheriff & Coeur d'Alene Police Department
+- "Best Interest Standard"
+- Pediatricians and social workers
 
 These are topics I want to add later:
 
 - Judges
 - Attorneys and Idaho Bar
-- "Best Interest Standard"
-- Pediatricians and social workers
+
 - Women's shelters (e.g. Safe Passage)
 - Child Support Enforcement
 
