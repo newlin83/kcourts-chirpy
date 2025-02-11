@@ -2,7 +2,7 @@
 layout: post
 title: Kootenai County Sheriff and Coeur d’Alene Police Department
 date: 2025-02-09 18:24 +0000
-tags: [Kootenai County Sheriff, Coeur d’Alene Police Department, Judge Caldwell, judges, protection order]
+tags: [Kootenai County Sheriff, Coeur d’Alene Police Department, Judge Caldwell]
 categories: [Local Government, Police]
 description: How the Kootenai County Sheriff and Coeur d'Alene Police Department hurt children and innocent people
 ---
