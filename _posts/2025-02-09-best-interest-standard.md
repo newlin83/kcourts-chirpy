@@ -6,6 +6,26 @@ categories: [State of Idaho, Court]
 tags: [Judge Pittman, Judge Stow, Judge Caldwell]
 date: 2025-02-12 06:49 +0000
 ---
+# My Visitation Schedule
+
+This is a breakdown of my daughter's monthly waking hours:
+
+- 200 at pre-school (48%)
+- 192 with mom (46%)
+- 28 with me (7%)
+
+Even the highly restrictive "every other weekend" default plans of the 1980s and 90s generally allowed fathers at least 100 hours monthly with their child. So I got 1/4 of that. This shows how little Idaho supports fathers. I've heard people (usually corrupt lawyers, like Alexandria Lewis) victim blame by saying, "you must have done something wrong" because they refuse to admit the reality that Idaho doesn't actually support fathers, as this would break down the view of Idaho they have in their minds, as being some kind of ideal and moral place, which is absolutely is not. Speaking with attorneys, results in North Idaho are worse for fathers than anywhere else, including Spokane, including, Boise.
+
+If Idaho really thinks highly of fathers, why would they only allow me this little amount of time with my daughter, when I wanted to see my daughter as much as possible? Why would they have my daughter spend 94% of her waking hours only around women? I had to fight the courts and my ex-wife for years to even get this result. I easily spent at least $40,000 in attorneys fees alone. For 2 full years, the court wouldn't allow me a single overnight with my daughter, without giving any explanation why. They just let my ex-wife withhold visitation. 
+
+It's obvious that Idaho, through Judge Pittman and Judge Stow, hates fathers and children. If that weren't the case, Judge Stow would've ordered a different parenting plan. Nobody should have to fight to their child just because the other parent is a bitter psycho, it should be automatic. Judge Stow admitted there's no issue of abuse, neglect, or addiction that would explain his highly restrictive parenting plan. 
+
+Judge Stow simply doesn't think fathers really matter. He sees fathers as something of an optional visiting uncle, someone who needs to prove to the courts why they're needed and why they should be allowed to see their children. Someone to buy presents and give an occasional hello. Judge Stow doesn't actually think children should be influenced by their fathers in any meaningful way.
+
+Mind you, my wife is unemployed and refuses to allow me to see my daughter more, or to visit her school. And she keeps repeating this hollow phrase, "I don't think this is in her best interest." My ex-wife is a psychopath who has extreme hatred of men and fathers, and she's out of her mind. Any sane court would've put a stop to this woman. 
+
+# Best Interest of The Child
+
 Lawyers repeatedly reminded me of how important the "best interest standard" was to the case. Nobody, however, could ever explain what this standard actually means in any objective sense. I've since learned, this is because the standard means whatever the judge wants it to mean, and since the standard can mean whatever a judge wants, it's effectively an empty phrase. I believe they use this phrase to give themselves legitimacy, to pretend that trials actually serve a purpose, and to tell themselves that they're looking out for children (when they of course know this is completely not the case). 
 
 The law is ignored by these North Idaho judges, and "judicial discretion" is simply a euphemism for "I'll set a parenting plan based on my personal biases and prejudices." Judges will say whatever they want, and append it with, "...because this is in the best interests of the child." You can't tack that phrase on to whatever you say and expect people to believe you. 
