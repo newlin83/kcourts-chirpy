@@ -10,6 +10,12 @@ This site is based on [jekyll](https://jekyllrb.com/) with the [chirpy theme](ht
 4. You'll need [rbenv](https://github.com/rbenv/rbenv) or [rvm](https://github.com/rvm/rvm). I have both.
 5. I use Cloudflare Pages. Their build environment uses Ruby 3.2.2. So that's what I'm using.
 
+Install bundler:
+
+```
+gem install bundler
+```
+
 # Plugins and Images
 
 1. I use the [jekyll-compose](https://github.com/jekyll/jekyll-compose) plug-in to create new posts.
