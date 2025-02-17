@@ -100,7 +100,8 @@ cdn:
 
 # the avatar on sidebar, support local or CORS resources
 # avatar: /assets/img/purple-white-and-red.jpg # random color splash
-avatar: /assets/img/clipart555102.png # https://www.clipartmax.com/ Powder Clipart - - Watercolor Color Splash Png
+# avatar: /assets/img/clipart555102.png # https://www.clipartmax.com/ Powder Clipart - - Watercolor Color Splash Png
+avatar: /assets/img/public.avif
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
