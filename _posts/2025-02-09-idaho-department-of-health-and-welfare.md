@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Idaho Department of Health and Welfare
-date: 2025-02-09 19:53 +0000
+date: 2025-02-18 08:00 +0000
 tags: [Idaho Department of Health and Welfare, lawsuit]
 categories: [State of Idaho, Idaho Department of Health and Welfare]
 description: shielding child abusers and blaiming victims
@@ -45,8 +45,13 @@ I filed a [lawsuit against the Idaho Department of Health and Welfare](https://w
 These are the names of the women who were involved with this report. The corruption is specifically with them in particular:
 
 - Karyn Crone - she is the one who actually came to our home in Feb 2023.
-- Nikki Stocking - she wrote the report in Feb 2023, all based on hearsay from Karyn who was actually present
-- Worker Tanner - she made the 2nd visit in Oct 2023 and is especially corrupt. She should be fired and prosecuted immediately. This "Worker Tanner" won't even identify herself in the report. Furthermore, she didn't identify everyone she spoke with in the report. She also refused to speak with me when I called. This "Worker Tanner" should be in prison, what she's doing is incredibly corrupt and is destroying lives. I would only assume she's continuing in her corrupt practices.
+- Nikki Stocking - she wrote the report in Feb 2023, all based on hearsay from Karyn who was actually present. Why is she even working on a report where she wasn't there? Was she the reason major changes were added?
+- Sarah Tanner - she made the 2nd visit in Oct 2023 and is especially corrupt. She should be fired and prosecuted immediately. This "Worker Tanner" didn't identify herself or those she interviewed in the report. She also refused to speak with me when I called. Sarah Tanner should be in prison, what she's doing is incredibly corrupt and is destroying lives. I would only assume she's continuing in her corrupt practices.
+
+Contact information for the corrupt CPS workers:
+
+- Kacey: 208-819-6906
+- Sarah Tanner: 208-952-2421 or 208-597-3998
 
 It's bizarre that the person who visits the home doesn't actually write the report. It's clear that after an assessment, they talk things over, and then someone else writes a report. There's no audio recording of what actually happened that I'm aware of. They can literally write whatever they want, and it's held as gospel by the judges. They know they have positions of power where they're totally unaccountable. 
 
