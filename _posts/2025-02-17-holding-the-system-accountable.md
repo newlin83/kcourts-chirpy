@@ -9,6 +9,10 @@ The Idaho system as it is today needs to be completely dismantled. All of the co
 
 The first step would be to completely cut Idaho off from federal funding until they can prove that the corruption and fraud are gone. The courts, lawyers, Department of Health and Welfare, and deadbeat mothers are just living off the federal government, and they have no incentive to change, since it's a system without accountability, and favors the more abusive parents.
 
+## U.S. Treasury
+
+Cut Idaho off from ARPA funds. These was the Biden-era COVID stimulus payments. Idaho cashed in on this, building themselves a new "justice building." This clearly has nothing whatsoever to do with COVID, and spending this money on an already corrupt North Idaho law system is a complete waste of taxpayer money.
+
 ## Health and Human Services (HHS)
 
 1. Investigate the fraud and waste in the child support enforcement program. Local states are just by default burdening fathers with this. They have incentive to just overwhelm a working parent, without giving them say. This happened to me.
