@@ -10,7 +10,9 @@ The new Kootenai County law building is more than just a physical structure—it
 
 During the COVID-19 pandemic, while countless Americans were struggling financially and confined to their homes, the Biden administration rolled out a $1.9 trillion COVID-19 stimulus package. Not a single Republican voted for this package, yet Idaho—supposedly a bastion of conservative values—had no qualms about cashing in. In my view, this is a prime example of the legal system’s primary function: to enrich itself.  
 
-Idaho reportedly diverted $22 million in COVID-19 relief funds to finance an expansion of their law campus, dubbed the "justice building." Let’s be clear: this project had no legitimate connection to pandemic relief. Instead, it was a blatant misuse of taxpayer money. Predictably, the project’s budget doubled, and everyone involved continued to profit. To me, this reeks of corruption and waste, with judges and politicians lining their pockets while ordinary citizens foot the bill.  
+Idaho reportedly diverted $22 million in COVID-19 relief funds to finance an expansion of their law campus, dubbed the "justice building." Let’s be clear: this project had no legitimate connection to pandemic relief. Instead, it was a blatant misuse of taxpayer money. 
+
+Predictably, the project’s budget ballooned to over [$50 million](https://kootenaijournal.com/2023/12/11/justice-center/), more than 100% over budget. This is clear corruption and waste, with judges, politicians, contractors, and lawyers lining their pockets while ordinary citizens foot the bill for a totally unncessary and wasteful project.  
 
 # Judge Cynthia Meyer and the "COVID Backlog" Justification  
 
