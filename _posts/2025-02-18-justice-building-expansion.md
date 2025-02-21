@@ -2,7 +2,7 @@
 layout: post
 title: Fraud, Waste, and Abuse in the Kootenai County Legal System
 description: How the The Kootenai County Justice Building is a Symbol of Larger Systemic Corruption
-date: 2025-02-19 13:20 +0000
+date: 2025-02-20 17:30 +0000
 ---
 The new Kootenai County law building is more than just a physical structure—it’s a glaring symbol of the systemic corruption that plagues the North Idaho legal system, particularly among judges and lawyers. While Idaho often prides itself on being a conservative stronghold, the reality is far from it. The actions of its leaders and legal officials tell a very different story—one of hypocrisy, waste, and self-enrichment at the expense of taxpayers.  
 
