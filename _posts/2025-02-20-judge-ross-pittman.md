@@ -2,7 +2,7 @@
 layout: post
 title: Judge Ross D. Pittman
 description: Destroying lives of children and fathers, and letting violent criminals off with a slap on the wrist
-date: 2025-02-20 16:43 -0800
+date: 2025-02-20 16:43 +0000
 ---
 Judge Ross D. Pittman needs to be removed immediately and should be in prison. He is a scourge on Idaho and is simply making the world a worse place. He's done more to damage Kootenai County than just about anyone. His actions both on the civil and criminal side are nothing short of monstrous and clearly unjust, across the board.
 
